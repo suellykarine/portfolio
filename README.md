@@ -1,4 +1,4 @@
-### Sobre mim
+# Sobre mim
 
 Aprendi com o tempo que mudanças são bem-vindas e começos são necesssários! Sou turismóloga de formação e pós-graduada em educação. Após perceber que podia chegar mais longe, me encantei pela área de tecnologia e decidi fazer a transição de carreira para adquirir mais conhecimentos e experiências.
 
